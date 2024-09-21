@@ -16,5 +16,5 @@ With a comprehensive Rules & Tips section, users can easily understand the tradi
 Join WinzTrade for a trading journey where innovation, transparency, and community converge to redefine how we approach and succeed in event-based trading.
 
 ### Contact information:
-Chat Support(WhatsApp): [Click here](https://wa.me/919022853510)<br/>
+Chat Support(WhatsApp): [Click here](https://wa.me/919359938438)<br/>
 Email: [support@winztrade.com](support@winztrade.com)
