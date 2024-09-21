@@ -4,6 +4,7 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const RESOURCES = {"flutter_bootstrap.js": "ec4adaba64791f75641c93aaf64660b4",
 "version.json": "92e4e8d51bbe23b39a815047e08481e6",
 "index.html": "1261c3f0d31d46b7c610be514528a6c6",
@@ -14,6 +15,12 @@ const RESOURCES = {"flutter_bootstrap.js": "454560a30445378e705af4bc882827a8",
 "index.html": "0b914432f6a082e4d810e1fc331de89b",
 "/": "0b914432f6a082e4d810e1fc331de89b",
 >>>>>>> 667ebf1 (Add files)
+=======
+const RESOURCES = {"flutter_bootstrap.js": "dcae5225a06e2c7f83c4a41d0208fce6",
+"version.json": "92e4e8d51bbe23b39a815047e08481e6",
+"index.html": "1e99b53bd206b31245944637443ed531",
+"/": "1e99b53bd206b31245944637443ed531",
+>>>>>>> b5dcbd7 (Add files)
 "main.dart.js": "3423b3af16dae2222683dd782083d885",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "1d83993848c01075220014a2171ecb1c",
