@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WinzTrade
 
 WinzTrade redefines trading with innovative event-based platforms, providing users the tools to maximize gains, experience swift results, and engage in a community-driven, informed trading environment. Experience transparency, community engagement, and unparalleled trading efficiency with WinzTrade.
@@ -18,3 +19,12 @@ Join WinzTrade for a trading journey where innovation, transparency, and communi
 ### Contact information:
 Chat Support(WhatsApp): [Click here](https://wa.me/919359938438)<br/>
 Email: [support@winztrade.com](support@winztrade.com)
+=======
+# WinzTradeWebsite
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
+>>>>>>> 0384555 (Add files)
